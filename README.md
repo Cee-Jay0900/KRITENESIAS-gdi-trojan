@@ -1,0 +1,2 @@
+# KRITENESIAS-gdi-trojan
+RUN AT YOUR OWN RISK!!! (IN A VM)
